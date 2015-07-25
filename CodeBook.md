@@ -1,13 +1,13 @@
 ##Code Book
 
-###This document, documenting the data variables of tidy.txt
+This document, documenting the data variables of tidy.txt
 
 ###Identifiers
 ####subject - the test subject of the corresponding measurement
 ####activity - the type of activity perform for the corresponding measurement
 
-##Measurements
-###tBodyAccMean.X          
+##Measurement Variables
+tBodyAccMean.X          
 ###tBodyAccMean.Y
 ###tBodyAccMean.Z
 ###tBodyAccStd.X           
