@@ -81,6 +81,9 @@ Variable with leading t are Triaxial data variables, variales with leading f mea
 ##Interpretation
 
 Std: Standard deviation
+
 Acc: Accelerometer
+
 Gyro: Gyroscope
+
 Mag: Magnitude
