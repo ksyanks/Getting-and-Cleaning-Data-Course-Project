@@ -78,4 +78,9 @@ Variable with leading t are Triaxial data variables, variales with leading f mea
 65. fBodyBodyGyroJerkMagMean
 66. fBodyBodyGyroJerkMagStd
 
+##Interpretation
 
+Std: Standard deviation
+Acc: Accelerometer
+Gyro: Gyroscope
+Mag: Magnitude

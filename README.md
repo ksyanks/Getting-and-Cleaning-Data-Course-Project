@@ -6,7 +6,7 @@ Data from below link was loaded
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 R script, run_analysis.R was created. 
-This code, run_analysis.R run in the main directory that has the above link's Samsung data is in the working directory. 
+This code, run_analysis.R, will run in the main directory that has the above link's Samsung data in the working directory. 
 
 Below are what the code does
 
@@ -16,4 +16,5 @@ Below are what the code does
 4. Uses descriptive activity names to name the activities in the data set
 5. Appropriately labels the data set with descriptive variable names. 
 6. From the data set in step 5, an independent tidy data set was created with the average of each variable for each activity and each subject.
+
 
